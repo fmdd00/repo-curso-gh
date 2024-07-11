@@ -1,5 +1,5 @@
-# repo-curso-gh
+# Titulo
 Repositorio creado con el curso de GH
 
-## descripcion
+## Descripcion
 Este es un repo creado con el curso de Git y GitHub.
